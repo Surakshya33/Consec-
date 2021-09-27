@@ -1,0 +1,84 @@
+Styles go here
+#btttn{
+ 
+    width: 120px;
+    height: 50px;
+    outline: none;
+    border: none;
+    border-radius: 60px;
+    background-color: rgb(100, 104, 102);
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 80px 50px;
+    transition: all 0.6s; 
+}
+.Daibhai{
+    padding-left: 650px;
+    padding-top: 30px;
+}
+.wallname{
+    font-size: 30px;
+}
+.form-group{
+    width: 150px;
+    height: 50px;
+    background: none;
+    outline: none;
+    border: none;
+    border-radius: 60px;
+    line-height: 1;
+    font-weight: 600;
+    font-size: 1rem;
+    color: black;
+    position: relative;
+    left: -120px;
+    
+}
+.wall{
+    top: 0px;
+}
+.form-control{
+    width: 410px;
+    height: 40px;
+    margin-top: 50px;
+    border-radius: 25px;
+    background: none;
+    outline: none;
+}
+ 
+.logow{
+    padding-left: 600px;
+    padding-top: 70px;
+}
+.wallimg{
+    width: 4%;
+}
+.form-group input{
+    padding-left: 10px;
+}
+.form-group input:placeholder-shown{
+    color: grey;
+    font-weight: 500;
+    padding-left: 10px;
+}
+ 
+.table{
+    width: 500px;
+    margin: 0px 400px;
+    padding-top: 10px;
+    
+}
+.tbl{
+    padding-left: 500px;
+}
+.tablerow1{
+    padding: 100px;
+}
+td{
+    padding: 15px;
+}
+.tab{
+    left: 200px;
+}

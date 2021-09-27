@@ -1,0 +1,24 @@
+.navi {
+  max-width: 100px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  position: fixed;
+  padding-top: 0px;
+}
+ 
+.header
+{
+  width: 100%;
+  height: 56px;
+  background-color: white;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 9999;
+  box-shadow: 2px 6px 6px #999999;
+}
+.logoletter1{
+  height: 45px;
+  width: 45px;
+}
